@@ -1,0 +1,25 @@
+
+## Instrucciones
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ 
+ Las variables son simplemente una caja dijital en donde puedes almacenar datos y utilizarlos cuando los requieras son muy utiles. 
+
+ Las strings de forma simple es texto, es una cadena compuesta de varios caracteres que componen una palabra o frase.
+
+ Las funciones son mas que un conjunto de lineas de codigo que hacen una tarea en especifico, son muy utiles para mantener nuestro codigo ordenado y nos evita repetir codigo.
+
+ Que son los argumentos o parametros de una funcion, son aquellas variables locales en las que una funcion para funcionar o solventar una necesidad en especifico necesita de ellas ya sea para operarse o mostrarse depende de que haga la funcion.
+
+ El return de una funcion finaliza la ejecución de la funcion y muestra un valor para ser devuelto a quien llama la funcion.
+
+la declaracion condicional if evalua algo y ejecuta una sentencia de codigo si la validacion es verdadera como puede ser 2 + 2 es 4 si en debido caso la setencia evalua que es falso no ejecuta la sentencia de codigo que traia el if y retorna false.
+
+los valores bool o boleanos son los famosos verdadero y falso de la escuela con los que nos hacian las evaluaciones, pero en la programacion se usan en ingles true y false donde true = verdadero, false = falso, son muy usados y utiles como todo lo anteriormente.
