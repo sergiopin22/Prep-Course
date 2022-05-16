@@ -154,16 +154,14 @@ function esPositivo(numero) {
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
-  switch (numero) {
-    case numero > 0:
-    return "Es positivo"
-      break;
-    case numero < 0:
-    return "Es negativo"
-      break;
-    case numero === 0:
-    return false
-      break;
+  if(numero === 0) {
+    return false;
+  }
+  else if(numero > 0) {
+    return "Es positivo";
+  }
+  else {
+    return "Es negativo";
   }
 }
 
